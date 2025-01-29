@@ -133,7 +133,7 @@ while True:
                     "EquipoID": "$team_id",
                     "NombreEquipo": "$name",
                     "PersonasIDs": {
-                        "$map": {  # Extraer solo los IDs de las personas
+                        "$map": {  # Extraemos solo los IDs de las personas
                             "input": "$personas",
                             "as": "persona",
                             "in": "$$persona.person_id"
@@ -149,7 +149,7 @@ while True:
             print("No se encontraron equipos en MongoDB.")
             continue
 
-        # PObtener información de las personas desde Neo4j
+        # Obtener información de las personas desde Neo4j
         print("\nEquipos y número de personas que los componen:")
         for equipo in equipos_mongo:
             personas_ids = equipo['PersonasIDs']
@@ -176,23 +176,23 @@ while True:
         
         pipeline = [
             {
-                "$lookup": {  # Unir equipos con proyectos
-                    "from": "projects",  # Nombre de la colección de proyectos
-                    "localField": "project_id",  # Clave local en teams
-                    "foreignField": "project_id",  # Clave foránea en projects
+                "$lookup": {  
+                    "from": "projects",  
+                    "localField": "project_id",  
+                    "foreignField": "project_id",  
                     "as": "proyectos_info"
                 }
             },
             {
-                "$project": {  # Seleccionar solo los campos necesarios
+                "$project": {  
                     "_id": 0,
                     "EquipoID": "$team_id",
                     "NombreEquipo": "$name",
-                    "NumProyectos": {"$size": "$proyectos_info"}  # Contar proyectos asociados
+                    "NumProyectos": {"$size": "$proyectos_info"}  
                 }
             },
             {
-                "$sort": {  # Ordenar por el número de proyectos en orden descendente
+                "$sort": {  
                     "NumProyectos": -1
                 }
             }
@@ -265,10 +265,10 @@ while True:
         
         from pokeapi import fetch_pokemon_data      
           
-        # Paso 1: Consulta en MongoDB para obtener equipos, personas y sus pokémon favoritos
+        
         pipeline_mongo = [
             {
-                "$lookup": {  # Unir teams con projects
+                "$lookup": {  # Unimos teams con projects
                     "from": "teams",
                     "localField": "project_id",
                     "foreignField": "project_id",
@@ -276,10 +276,10 @@ while True:
                 }
             },
             {
-                "$unwind": "$teams_info"  # Descomponer los equipos
+                "$unwind": "$teams_info"  
             },
             {
-                "$lookup": {  # Unir works_in_team con teams
+                "$lookup": {  # Unimos works_in_team con teams
                     "from": "works_in_team",
                     "localField": "teams_info.team_id",
                     "foreignField": "team_id",
@@ -287,10 +287,10 @@ while True:
                 }
             },
             {
-                "$unwind": "$personas_info"  # Descomponer las personas
+                "$unwind": "$personas_info"  
             },
             {
-                "$lookup": {  # Unir favourite_pokemon con personas
+                "$lookup": {  # Unimos favourite_pokemon con personas
                     "from": "favourite_pokemon",
                     "localField": "personas_info.person_id",
                     "foreignField": "person_id",
@@ -298,31 +298,31 @@ while True:
                 }
             },
             {
-                "$unwind": "$pokemon_info"  # Descomponer los Pokémon
+                "$unwind": "$pokemon_info" 
             },
             {
-                "$project": {  # Seleccionar solo los campos relevantes
+                "$project": {  # Seleccionamos los campos que queremos
                     "_id": 0,
                     "project_id": 1,
                     "project_name": "$name",
                     "person_id": "$personas_info.person_id",
-                    "pokemon_name": "$pokemon_info.pokemon_id"  # Asegurar que obtenemos el nombre del Pokémon
+                    "pokemon_name": "$pokemon_info.pokemon_id"  
                 }
             }
         ]
 
-        # Ejecutar la consulta en MongoDB
+        
         resultados_mongo = list(mongo_operations.db['projects'].aggregate(pipeline_mongo))
 
-        # Paso 2: Procesar los datos y consultar la API
+        # Procesamos los datos y consultamos la API
         proyectos_tipos = {}
 
         for registro in resultados_mongo:
             project_id = registro["project_id"]
             project_name = registro["project_name"]
-            pokemon_name = registro["pokemon_name"]  # Usar el nombre del Pokémon desde MongoDB
+            pokemon_name = registro["pokemon_name"] 
 
-            # Consultar la API para obtener los tipos del Pokémon
+            # Consultamos la API para obtener los tipos del Pokémon
             pokemon_data = fetch_pokemon_data(pokemon_name)
 
             if isinstance(pokemon_data, dict) and "Types" in pokemon_data:
@@ -331,7 +331,7 @@ while True:
                 print(f"Error al obtener datos del Pokémon: {pokemon_name}")
                 continue
 
-            # Agrupar los datos por proyecto
+            # Agrupamos los datos por proyecto
             if project_id not in proyectos_tipos:
                 proyectos_tipos[project_id] = {
                     "name": project_name,
@@ -342,14 +342,14 @@ while True:
             proyectos_tipos[project_id]["personas"].add(registro["person_id"])
             proyectos_tipos[project_id]["tipos"].update(tipos)
 
-        # Paso 3: Identificar el proyecto con más tipos únicos
+        # Identificamos el proyecto con más tipos únicos
         proyecto_con_mas_tipos = max(
             proyectos_tipos.items(),
             key=lambda x: len(x[1]["tipos"]),
             default=None
         )
 
-        # Mostrar el resultado
+        
         if proyecto_con_mas_tipos:
             project_id, data = proyecto_con_mas_tipos
             print("\nProyecto con más tipos de Pokémon favoritos:")
