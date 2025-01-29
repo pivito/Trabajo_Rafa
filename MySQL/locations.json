@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Location_1",
+        "city": "City_1"
+    },
+    {
+        "id": 2,
+        "name": "Location_2",
+        "city": "City_2"
+    },
+    {
+        "id": 3,
+        "name": "Location_3",
+        "city": "City_3"
+    },
+    {
+        "id": 4,
+        "name": "Location_4",
+        "city": "City_4"
+    },
+    {
+        "id": 5,
+        "name": "Location_5",
+        "city": "City_5"
+    },
+    {
+        "id": 6,
+        "name": "Location_6",
+        "city": "City_6"
+    },
+    {
+        "id": 7,
+        "name": "Location_7",
+        "city": "City_7"
+    },
+    {
+        "id": 8,
+        "name": "Location_8",
+        "city": "City_8"
+    },
+    {
+        "id": 9,
+        "name": "Location_9",
+        "city": "City_9"
+    },
+    {
+        "id": 10,
+        "name": "Location_10",
+        "city": "City_10"
+    },
+    {
+        "id": 11,
+        "name": "Location_11",
+        "city": "City_11"
+    },
+    {
+        "id": 12,
+        "name": "Location_12",
+        "city": "City_12"
+    },
+    {
+        "id": 13,
+        "name": "Location_13",
+        "city": "City_13"
+    },
+    {
+        "id": 14,
+        "name": "Location_14",
+        "city": "City_14"
+    },
+    {
+        "id": 15,
+        "name": "Location_15",
+        "city": "City_15"
+    },
+    {
+        "id": 16,
+        "name": "Location_16",
+        "city": "City_16"
+    },
+    {
+        "id": 17,
+        "name": "Location_17",
+        "city": "City_17"
+    },
+    {
+        "id": 18,
+        "name": "Location_18",
+        "city": "City_18"
+    },
+    {
+        "id": 19,
+        "name": "Location_19",
+        "city": "City_19"
+    },
+    {
+        "id": 20,
+        "name": "Location_20",
+        "city": "City_20"
+    }
+]

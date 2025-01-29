@@ -1,0 +1,302 @@
+[
+    {
+        "accommodation_id": "A1",
+        "destination_id": "D1",
+        "name": "Hotel Paradise",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A2",
+        "destination_id": "D2",
+        "name": "Cabañas Serenas",
+        "type": "Cabin"
+    },
+    {
+        "accommodation_id": "A3",
+        "destination_id": "D3",
+        "name": "City Suites",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A4",
+        "destination_id": "D4",
+        "name": "Urban Retreat",
+        "type": "Apartment"
+    },
+    {
+        "accommodation_id": "A5",
+        "destination_id": "D5",
+        "name": "Harborview Hotel",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A6",
+        "destination_id": "D6",
+        "name": "Downtown Apartments",
+        "type": "Apartment"
+    },
+    {
+        "accommodation_id": "A7",
+        "destination_id": "D7",
+        "name": "Nature Lodge",
+        "type": "Lodge"
+    },
+    {
+        "accommodation_id": "A8",
+        "destination_id": "D8",
+        "name": "City Haven",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A9",
+        "destination_id": "D9",
+        "name": "Forest Retreat",
+        "type": "Cabin"
+    },
+    {
+        "accommodation_id": "A10",
+        "destination_id": "D10",
+        "name": "Metropolitan Suites",
+        "type": "Apartment"
+    },
+    {
+        "accommodation_id": "A11",
+        "destination_id": "D1",
+        "name": "Central Plaza Hotel",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A12",
+        "destination_id": "D2",
+        "name": "Mountain View Cabins",
+        "type": "Cabin"
+    },
+    {
+        "accommodation_id": "A13",
+        "destination_id": "D3",
+        "name": "City Lights Inn",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A14",
+        "destination_id": "D4",
+        "name": "Zoo Lodge",
+        "type": "Lodge"
+    },
+    {
+        "accommodation_id": "A15",
+        "destination_id": "D5",
+        "name": "Oceanfront Apartments",
+        "type": "Apartment"
+    },
+    {
+        "accommodation_id": "A16",
+        "destination_id": "D6",
+        "name": "Riverside Retreat",
+        "type": "Cabin"
+    },
+    {
+        "accommodation_id": "A17",
+        "destination_id": "D7",
+        "name": "Green Valley Hotel",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A18",
+        "destination_id": "D8",
+        "name": "Skyline Apartments",
+        "type": "Apartment"
+    },
+    {
+        "accommodation_id": "A19",
+        "destination_id": "D9",
+        "name": "Cozy Cabins",
+        "type": "Cabin"
+    },
+    {
+        "accommodation_id": "A20",
+        "destination_id": "D10",
+        "name": "City Center Hotel",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A21",
+        "destination_id": "D11",
+        "name": "Lakeside Lodge",
+        "type": "Lodge"
+    },
+    {
+        "accommodation_id": "A22",
+        "destination_id": "D12",
+        "name": "Hillside Apartments",
+        "type": "Apartment"
+    },
+    {
+        "accommodation_id": "A23",
+        "destination_id": "D13",
+        "name": "Sunset Retreat",
+        "type": "Cabin"
+    },
+    {
+        "accommodation_id": "A24",
+        "destination_id": "D14",
+        "name": "Safari Lodge",
+        "type": "Lodge"
+    },
+    {
+        "accommodation_id": "A25",
+        "destination_id": "D15",
+        "name": "Beachfront Hotel",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A26",
+        "destination_id": "D16",
+        "name": "Cliffside Cabins",
+        "type": "Cabin"
+    },
+    {
+        "accommodation_id": "A27",
+        "destination_id": "D17",
+        "name": "Historic Inn",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A28",
+        "destination_id": "D18",
+        "name": "Mountain Vista Apartments",
+        "type": "Apartment"
+    },
+    {
+        "accommodation_id": "A29",
+        "destination_id": "D19",
+        "name": "Nature Cabins",
+        "type": "Cabin"
+    },
+    {
+        "accommodation_id": "A30",
+        "destination_id": "D20",
+        "name": "Cityscape Hotel",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A31",
+        "destination_id": "D21",
+        "name": "Rural Retreat",
+        "type": "Cabin"
+    },
+    {
+        "accommodation_id": "A32",
+        "destination_id": "D22",
+        "name": "Sky High Apartments",
+        "type": "Apartment"
+    },
+    {
+        "accommodation_id": "A33",
+        "destination_id": "D23",
+        "name": "Tranquil Lodge",
+        "type": "Lodge"
+    },
+    {
+        "accommodation_id": "A34",
+        "destination_id": "D24",
+        "name": "City Lights Hotel",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A35",
+        "destination_id": "D25",
+        "name": "Meadowside Cabins",
+        "type": "Cabin"
+    },
+    {
+        "accommodation_id": "A36",
+        "destination_id": "D26",
+        "name": "Downtown Suites",
+        "type": "Apartment"
+    },
+    {
+        "accommodation_id": "A37",
+        "destination_id": "D27",
+        "name": "Riverfront Lodge",
+        "type": "Lodge"
+    },
+    {
+        "accommodation_id": "A38",
+        "destination_id": "D28",
+        "name": "City View Hotel",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A39",
+        "destination_id": "D29",
+        "name": "Lush Forest Cabins",
+        "type": "Cabin"
+    },
+    {
+        "accommodation_id": "A40",
+        "destination_id": "D30",
+        "name": "Central Suites",
+        "type": "Apartment"
+    },
+    {
+        "accommodation_id": "A41",
+        "destination_id": "D31",
+        "name": "Wildlife Lodge",
+        "type": "Lodge"
+    },
+    {
+        "accommodation_id": "A42",
+        "destination_id": "D32",
+        "name": "Ocean Retreat",
+        "type": "Cabin"
+    },
+    {
+        "accommodation_id": "A43",
+        "destination_id": "D33",
+        "name": "Mountain Shadows Hotel",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A44",
+        "destination_id": "D34",
+        "name": "Serenity Apartments",
+        "type": "Apartment"
+    },
+    {
+        "accommodation_id": "A45",
+        "destination_id": "D35",
+        "name": "Riverwalk Lodge",
+        "type": "Lodge"
+    },
+    {
+        "accommodation_id": "A46",
+        "destination_id": "D36",
+        "name": "City Oasis Hotel",
+        "type": "Hotel"
+    },
+    {
+        "accommodation_id": "A47",
+        "destination_id": "D37",
+        "name": "Majestic Cabins",
+        "type": "Cabin"
+    },
+    {
+        "accommodation_id": "A48",
+        "destination_id": "D38",
+        "name": "Skyline Suites",
+        "type": "Apartment"
+    },
+    {
+        "accommodation_id": "A49",
+        "destination_id": "D39",
+        "name": "Nature's Lodge",
+        "type": "Lodge"
+    },
+    {
+        "accommodation_id": "A50",
+        "destination_id": "D40",
+        "name": "Cityscapes Cabins",
+        "type": "Cabin"
+    }
+]

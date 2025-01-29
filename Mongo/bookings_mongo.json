@@ -1,0 +1,302 @@
+[
+    {
+        "booking_id": "B1",
+        "customer_id": 1,
+        "accommodation_id": "A1",
+        "check_in_date": "2023-01-01"
+    },
+    {
+        "booking_id": "B2",
+        "customer_id": 2,
+        "accommodation_id": "A2",
+        "check_in_date": "2023-01-02"
+    },
+    {
+        "booking_id": "B3",
+        "customer_id": 3,
+        "accommodation_id": "A3",
+        "check_in_date": "2023-01-03"
+    },
+    {
+        "booking_id": "B4",
+        "customer_id": 4,
+        "accommodation_id": "A4",
+        "check_in_date": "2023-01-04"
+    },
+    {
+        "booking_id": "B5",
+        "customer_id": 5,
+        "accommodation_id": "A5",
+        "check_in_date": "2023-01-05"
+    },
+    {
+        "booking_id": "B6",
+        "customer_id": 6,
+        "accommodation_id": "A6",
+        "check_in_date": "2023-01-06"
+    },
+    {
+        "booking_id": "B7",
+        "customer_id": 7,
+        "accommodation_id": "A7",
+        "check_in_date": "2023-01-07"
+    },
+    {
+        "booking_id": "B8",
+        "customer_id": 8,
+        "accommodation_id": "A8",
+        "check_in_date": "2023-01-08"
+    },
+    {
+        "booking_id": "B9",
+        "customer_id": 9,
+        "accommodation_id": "A9",
+        "check_in_date": "2023-01-09"
+    },
+    {
+        "booking_id": "B10",
+        "customer_id": 10,
+        "accommodation_id": "A10",
+        "check_in_date": "2023-01-10"
+    },
+    {
+        "booking_id": "B11",
+        "customer_id": 1,
+        "accommodation_id": "A11",
+        "check_in_date": "2023-01-11"
+    },
+    {
+        "booking_id": "B12",
+        "customer_id": 2,
+        "accommodation_id": "A12",
+        "check_in_date": "2023-01-12"
+    },
+    {
+        "booking_id": "B13",
+        "customer_id": 3,
+        "accommodation_id": "A13",
+        "check_in_date": "2023-01-13"
+    },
+    {
+        "booking_id": "B14",
+        "customer_id": 4,
+        "accommodation_id": "A14",
+        "check_in_date": "2023-01-14"
+    },
+    {
+        "booking_id": "B15",
+        "customer_id": 5,
+        "accommodation_id": "A15",
+        "check_in_date": "2023-01-15"
+    },
+    {
+        "booking_id": "B16",
+        "customer_id": 6,
+        "accommodation_id": "A16",
+        "check_in_date": "2023-01-16"
+    },
+    {
+        "booking_id": "B17",
+        "customer_id": 7,
+        "accommodation_id": "A17",
+        "check_in_date": "2023-01-17"
+    },
+    {
+        "booking_id": "B18",
+        "customer_id": 8,
+        "accommodation_id": "A18",
+        "check_in_date": "2023-01-18"
+    },
+    {
+        "booking_id": "B19",
+        "customer_id": 9,
+        "accommodation_id": "A19",
+        "check_in_date": "2023-01-19"
+    },
+    {
+        "booking_id": "B20",
+        "customer_id": 10,
+        "accommodation_id": "A20",
+        "check_in_date": "2023-01-20"
+    },
+    {
+        "booking_id": "B21",
+        "customer_id": 11,
+        "accommodation_id": "A21",
+        "check_in_date": "2023-01-21"
+    },
+    {
+        "booking_id": "B22",
+        "customer_id": 12,
+        "accommodation_id": "A22",
+        "check_in_date": "2023-01-22"
+    },
+    {
+        "booking_id": "B23",
+        "customer_id": 13,
+        "accommodation_id": "A23",
+        "check_in_date": "2023-01-23"
+    },
+    {
+        "booking_id": "B24",
+        "customer_id": 14,
+        "accommodation_id": "A24",
+        "check_in_date": "2023-01-24"
+    },
+    {
+        "booking_id": "B25",
+        "customer_id": 15,
+        "accommodation_id": "A25",
+        "check_in_date": "2023-01-25"
+    },
+    {
+        "booking_id": "B26",
+        "customer_id": 16,
+        "accommodation_id": "A26",
+        "check_in_date": "2023-01-26"
+    },
+    {
+        "booking_id": "B27",
+        "customer_id": 17,
+        "accommodation_id": "A27",
+        "check_in_date": "2023-01-27"
+    },
+    {
+        "booking_id": "B28",
+        "customer_id": 18,
+        "accommodation_id": "A28",
+        "check_in_date": "2023-01-28"
+    },
+    {
+        "booking_id": "B29",
+        "customer_id": 19,
+        "accommodation_id": "A29",
+        "check_in_date": "2023-01-29"
+    },
+    {
+        "booking_id": "B30",
+        "customer_id": 20,
+        "accommodation_id": "A30",
+        "check_in_date": "2023-01-30"
+    },
+    {
+        "booking_id": "B31",
+        "customer_id": 1,
+        "accommodation_id": "A31",
+        "check_in_date": "2023-01-31"
+    },
+    {
+        "booking_id": "B32",
+        "customer_id": 2,
+        "accommodation_id": "A32",
+        "check_in_date": "2023-02-01"
+    },
+    {
+        "booking_id": "B33",
+        "customer_id": 3,
+        "accommodation_id": "A15",
+        "check_in_date": "2023-02-02"
+    },
+    {
+        "booking_id": "B34",
+        "customer_id": 4,
+        "accommodation_id": "A34",
+        "check_in_date": "2023-02-03"
+    },
+    {
+        "booking_id": "B35",
+        "customer_id": 5,
+        "accommodation_id": "A35",
+        "check_in_date": "2023-02-04"
+    },
+    {
+        "booking_id": "B36",
+        "customer_id": 6,
+        "accommodation_id": "A36",
+        "check_in_date": "2023-02-05"
+    },
+    {
+        "booking_id": "B37",
+        "customer_id": 7,
+        "accommodation_id": "A37",
+        "check_in_date": "2023-02-06"
+    },
+    {
+        "booking_id": "B38",
+        "customer_id": 8,
+        "accommodation_id": "A38",
+        "check_in_date": "2023-02-07"
+    },
+    {
+        "booking_id": "B39",
+        "customer_id": 9,
+        "accommodation_id": "A39",
+        "check_in_date": "2023-02-08"
+    },
+    {
+        "booking_id": "B40",
+        "customer_id": 10,
+        "accommodation_id": "A40",
+        "check_in_date": "2023-02-09"
+    },
+    {
+        "booking_id": "B41",
+        "customer_id": 11,
+        "accommodation_id": "A41",
+        "check_in_date": "2023-02-10"
+    },
+    {
+        "booking_id": "B42",
+        "customer_id": 12,
+        "accommodation_id": "A42",
+        "check_in_date": "2023-02-11"
+    },
+    {
+        "booking_id": "B43",
+        "customer_id": 13,
+        "accommodation_id": "A43",
+        "check_in_date": "2023-02-12"
+    },
+    {
+        "booking_id": "B44",
+        "customer_id": 14,
+        "accommodation_id": "A15",
+        "check_in_date": "2023-02-13"
+    },
+    {
+        "booking_id": "B45",
+        "customer_id": 15,
+        "accommodation_id": "A18",
+        "check_in_date": "2023-02-14"
+    },
+    {
+        "booking_id": "B46",
+        "customer_id": 16,
+        "accommodation_id": "A18",
+        "check_in_date": "2023-02-15"
+    },
+    {
+        "booking_id": "B47",
+        "customer_id": 17,
+        "accommodation_id": "A18",
+        "check_in_date": "2023-02-16"
+    },
+    {
+        "booking_id": "B48",
+        "customer_id": 18,
+        "accommodation_id": "A15",
+        "check_in_date": "2023-02-17"
+    },
+    {
+        "booking_id": "B49",
+        "customer_id": 19,
+        "accommodation_id": "A11",
+        "check_in_date": "2023-02-18"
+    },
+    {
+        "booking_id": "B50",
+        "customer_id": 20,
+        "accommodation_id": "A10",
+        "check_in_date": "2023-02-19"
+    }
+]

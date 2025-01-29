@@ -1,0 +1,51 @@
+id,attraction_name,category,location
+1,Museo de Historia Natural,Museo,Ciudad A
+2,Parque Nacional,Parque,Naturaleza B
+3,Zoológico Metropolitano,Zoológico,Ciudad C
+4,Acuario Marino,Acuario,Ciudad D
+5,Jardín Botánico,Jardín,Ciudad E
+6,Museo de Ciencias,Museo,Ciudad F
+7,Parque de Aventuras,Parque,Naturaleza G
+8,Galería de Arte Moderno,Galería,Ciudad H
+9,Reserva Natural,Reserva,Naturaleza I
+10,Planetario,Planetario,Ciudad J
+11,Centro Cultural,Centro Cultural,Ciudad K
+12,Parque Temático,Parque,Naturaleza L
+13,Museo de Arte Contemporáneo,Museo,Ciudad M
+14,Parque Zoológico,Parque,Zoológico N
+15,Centro de Historia Local,Centro Cultural,Ciudad O
+16,Santuario de Aves,Santuario,Naturaleza P
+17,Galería de Esculturas,Galería,Ciudad Q
+18,Parque Nacional Marino,Parque,Naturaleza R
+19,Museo de Tecnología,Museo,Ciudad S
+20,Reserva de Vida Silvestre,Reserva,Naturaleza T
+21,Teatro de la Ciudad,Teatro,Ciudad U
+22,Jardín de Mariposas,Jardín,Ciudad V
+23,Parque de Diversiones,Parque,Naturaleza W
+24,Museo de Arqueología,Museo,Ciudad X
+25,Parque Acuático,Parque Acuático,Ciudad Y
+26,Centro de Ciencias,Centro de Ciencias,Ciudad Z
+27,Área de Observación de Estrellas,Observatorio,Ciudad AA
+28,Parque de Esculturas,Parque,Zoológico AB
+29,Museo de Bellas Artes,Museo,Ciudad AC
+30,Parque de Aves,Parque,Zoológico AD
+31,Centro de Interpretación Ambiental,Centro de Interpretación,Naturaleza AE
+32,Estudio de Arte,Estudio de Arte,Ciudad AF
+33,Parque de Mariposas,Parque,Zoológico AG
+34,Museo de la Música,Museo,Ciudad AH
+35,Reserva Marítima,Reserva,Naturaleza AI
+36,Jardín de Esculturas,Jardín,Ciudad AJ
+37,Museo de Fotografía,Museo,Ciudad AK
+38,Centro de Rehabilitación de Animales,Centro de Rehabilitación,Zoológico AL
+39,Parque de Ciencias,Parque de Ciencias,Ciudad AM
+40,Santuario de Vida Marina,Santuario,Naturaleza AN
+41,Centro de Arte Contemporáneo,Centro de Arte Contemporáneo,Ciudad AO
+42,Museo de la Moda,Museo,Ciudad AP
+43,Parque Botánico,Parque,Jardín AQ
+44,Museo de la Aviación,Museo,Ciudad AR
+45,Reserva de Aves,Reserva,Naturaleza AS
+46,Centro Cultural Indígena,Centro Cultural,Ciudad AT
+47,Parque de Dinosaurios,Parque de Dinosaurios,Naturaleza AU
+48,Museo de Ciencias Naturales,Museo,Ciudad AV
+49,Acuario Tropical,Acuario,Ciudad AW
+50,Parque Nacional Forestal,Parque,Naturaleza AX

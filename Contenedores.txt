@@ -1,0 +1,7 @@
+docker run --restart always --name Neo4j --publish=7474:7474 --publish=7687:7687 --env NEO4J_AUTH=neo4j/my-secret-pw --volume=Neou4j_volume:/data -d neo4j
+
+docker run --name MySQL -v mysqlDB:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=migue -e MYSQL_DATABASE=Datos -p 6969:3306 -d mysql
+
+docker run --name MongoDB -v mongoDB_data/db -e MONGO_INITDB_ROOT_USERNAME=mongoadmin -e MONGO_INITDB_ROOT_PASSWORD=secret -p 7777:27017  -d mongo
+
+

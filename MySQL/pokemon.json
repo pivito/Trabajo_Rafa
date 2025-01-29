@@ -1,0 +1,752 @@
+[
+    {
+        "pokemon_id": 1,
+        "description": "Description_1",
+        "pokeGame": "Game_1"
+    },
+    {
+        "pokemon_id": 2,
+        "description": "Description_2",
+        "pokeGame": "Game_2"
+    },
+    {
+        "pokemon_id": 3,
+        "description": "Description_3",
+        "pokeGame": "Game_3"
+    },
+    {
+        "pokemon_id": 4,
+        "description": "Description_4",
+        "pokeGame": "Game_4"
+    },
+    {
+        "pokemon_id": 5,
+        "description": "Description_5",
+        "pokeGame": "Game_5"
+    },
+    {
+        "pokemon_id": 6,
+        "description": "Description_6",
+        "pokeGame": "Game_6"
+    },
+    {
+        "pokemon_id": 7,
+        "description": "Description_7",
+        "pokeGame": "Game_7"
+    },
+    {
+        "pokemon_id": 8,
+        "description": "Description_8",
+        "pokeGame": "Game_8"
+    },
+    {
+        "pokemon_id": 9,
+        "description": "Description_9",
+        "pokeGame": "Game_9"
+    },
+    {
+        "pokemon_id": 10,
+        "description": "Description_10",
+        "pokeGame": "Game_10"
+    },
+    {
+        "pokemon_id": 11,
+        "description": "Description_11",
+        "pokeGame": "Game_11"
+    },
+    {
+        "pokemon_id": 12,
+        "description": "Description_12",
+        "pokeGame": "Game_12"
+    },
+    {
+        "pokemon_id": 13,
+        "description": "Description_13",
+        "pokeGame": "Game_13"
+    },
+    {
+        "pokemon_id": 14,
+        "description": "Description_14",
+        "pokeGame": "Game_14"
+    },
+    {
+        "pokemon_id": 15,
+        "description": "Description_15",
+        "pokeGame": "Game_15"
+    },
+    {
+        "pokemon_id": 16,
+        "description": "Description_16",
+        "pokeGame": "Game_16"
+    },
+    {
+        "pokemon_id": 17,
+        "description": "Description_17",
+        "pokeGame": "Game_17"
+    },
+    {
+        "pokemon_id": 18,
+        "description": "Description_18",
+        "pokeGame": "Game_18"
+    },
+    {
+        "pokemon_id": 19,
+        "description": "Description_19",
+        "pokeGame": "Game_19"
+    },
+    {
+        "pokemon_id": 20,
+        "description": "Description_20",
+        "pokeGame": "Game_20"
+    },
+    {
+        "pokemon_id": 21,
+        "description": "Description_21",
+        "pokeGame": "Game_21"
+    },
+    {
+        "pokemon_id": 22,
+        "description": "Description_22",
+        "pokeGame": "Game_22"
+    },
+    {
+        "pokemon_id": 23,
+        "description": "Description_23",
+        "pokeGame": "Game_23"
+    },
+    {
+        "pokemon_id": 24,
+        "description": "Description_24",
+        "pokeGame": "Game_24"
+    },
+    {
+        "pokemon_id": 25,
+        "description": "Description_25",
+        "pokeGame": "Game_25"
+    },
+    {
+        "pokemon_id": 26,
+        "description": "Description_26",
+        "pokeGame": "Game_26"
+    },
+    {
+        "pokemon_id": 27,
+        "description": "Description_27",
+        "pokeGame": "Game_27"
+    },
+    {
+        "pokemon_id": 28,
+        "description": "Description_28",
+        "pokeGame": "Game_28"
+    },
+    {
+        "pokemon_id": 29,
+        "description": "Description_29",
+        "pokeGame": "Game_29"
+    },
+    {
+        "pokemon_id": 30,
+        "description": "Description_30",
+        "pokeGame": "Game_30"
+    },
+    {
+        "pokemon_id": 31,
+        "description": "Description_31",
+        "pokeGame": "Game_31"
+    },
+    {
+        "pokemon_id": 32,
+        "description": "Description_32",
+        "pokeGame": "Game_32"
+    },
+    {
+        "pokemon_id": 33,
+        "description": "Description_33",
+        "pokeGame": "Game_33"
+    },
+    {
+        "pokemon_id": 34,
+        "description": "Description_34",
+        "pokeGame": "Game_34"
+    },
+    {
+        "pokemon_id": 35,
+        "description": "Description_35",
+        "pokeGame": "Game_35"
+    },
+    {
+        "pokemon_id": 36,
+        "description": "Description_36",
+        "pokeGame": "Game_36"
+    },
+    {
+        "pokemon_id": 37,
+        "description": "Description_37",
+        "pokeGame": "Game_37"
+    },
+    {
+        "pokemon_id": 38,
+        "description": "Description_38",
+        "pokeGame": "Game_38"
+    },
+    {
+        "pokemon_id": 39,
+        "description": "Description_39",
+        "pokeGame": "Game_39"
+    },
+    {
+        "pokemon_id": 40,
+        "description": "Description_40",
+        "pokeGame": "Game_40"
+    },
+    {
+        "pokemon_id": 41,
+        "description": "Description_41",
+        "pokeGame": "Game_41"
+    },
+    {
+        "pokemon_id": 42,
+        "description": "Description_42",
+        "pokeGame": "Game_42"
+    },
+    {
+        "pokemon_id": 43,
+        "description": "Description_43",
+        "pokeGame": "Game_43"
+    },
+    {
+        "pokemon_id": 44,
+        "description": "Description_44",
+        "pokeGame": "Game_44"
+    },
+    {
+        "pokemon_id": 45,
+        "description": "Description_45",
+        "pokeGame": "Game_45"
+    },
+    {
+        "pokemon_id": 46,
+        "description": "Description_46",
+        "pokeGame": "Game_46"
+    },
+    {
+        "pokemon_id": 47,
+        "description": "Description_47",
+        "pokeGame": "Game_47"
+    },
+    {
+        "pokemon_id": 48,
+        "description": "Description_48",
+        "pokeGame": "Game_48"
+    },
+    {
+        "pokemon_id": 49,
+        "description": "Description_49",
+        "pokeGame": "Game_49"
+    },
+    {
+        "pokemon_id": 50,
+        "description": "Description_50",
+        "pokeGame": "Game_50"
+    },
+    {
+        "pokemon_id": 51,
+        "description": "Description_51",
+        "pokeGame": "Game_51"
+    },
+    {
+        "pokemon_id": 52,
+        "description": "Description_52",
+        "pokeGame": "Game_52"
+    },
+    {
+        "pokemon_id": 53,
+        "description": "Description_53",
+        "pokeGame": "Game_53"
+    },
+    {
+        "pokemon_id": 54,
+        "description": "Description_54",
+        "pokeGame": "Game_54"
+    },
+    {
+        "pokemon_id": 55,
+        "description": "Description_55",
+        "pokeGame": "Game_55"
+    },
+    {
+        "pokemon_id": 56,
+        "description": "Description_56",
+        "pokeGame": "Game_56"
+    },
+    {
+        "pokemon_id": 57,
+        "description": "Description_57",
+        "pokeGame": "Game_57"
+    },
+    {
+        "pokemon_id": 58,
+        "description": "Description_58",
+        "pokeGame": "Game_58"
+    },
+    {
+        "pokemon_id": 59,
+        "description": "Description_59",
+        "pokeGame": "Game_59"
+    },
+    {
+        "pokemon_id": 60,
+        "description": "Description_60",
+        "pokeGame": "Game_60"
+    },
+    {
+        "pokemon_id": 61,
+        "description": "Description_61",
+        "pokeGame": "Game_61"
+    },
+    {
+        "pokemon_id": 62,
+        "description": "Description_62",
+        "pokeGame": "Game_62"
+    },
+    {
+        "pokemon_id": 63,
+        "description": "Description_63",
+        "pokeGame": "Game_63"
+    },
+    {
+        "pokemon_id": 64,
+        "description": "Description_64",
+        "pokeGame": "Game_64"
+    },
+    {
+        "pokemon_id": 65,
+        "description": "Description_65",
+        "pokeGame": "Game_65"
+    },
+    {
+        "pokemon_id": 66,
+        "description": "Description_66",
+        "pokeGame": "Game_66"
+    },
+    {
+        "pokemon_id": 67,
+        "description": "Description_67",
+        "pokeGame": "Game_67"
+    },
+    {
+        "pokemon_id": 68,
+        "description": "Description_68",
+        "pokeGame": "Game_68"
+    },
+    {
+        "pokemon_id": 69,
+        "description": "Description_69",
+        "pokeGame": "Game_69"
+    },
+    {
+        "pokemon_id": 70,
+        "description": "Description_70",
+        "pokeGame": "Game_70"
+    },
+    {
+        "pokemon_id": 71,
+        "description": "Description_71",
+        "pokeGame": "Game_71"
+    },
+    {
+        "pokemon_id": 72,
+        "description": "Description_72",
+        "pokeGame": "Game_72"
+    },
+    {
+        "pokemon_id": 73,
+        "description": "Description_73",
+        "pokeGame": "Game_73"
+    },
+    {
+        "pokemon_id": 74,
+        "description": "Description_74",
+        "pokeGame": "Game_74"
+    },
+    {
+        "pokemon_id": 75,
+        "description": "Description_75",
+        "pokeGame": "Game_75"
+    },
+    {
+        "pokemon_id": 76,
+        "description": "Description_76",
+        "pokeGame": "Game_76"
+    },
+    {
+        "pokemon_id": 77,
+        "description": "Description_77",
+        "pokeGame": "Game_77"
+    },
+    {
+        "pokemon_id": 78,
+        "description": "Description_78",
+        "pokeGame": "Game_78"
+    },
+    {
+        "pokemon_id": 79,
+        "description": "Description_79",
+        "pokeGame": "Game_79"
+    },
+    {
+        "pokemon_id": 80,
+        "description": "Description_80",
+        "pokeGame": "Game_80"
+    },
+    {
+        "pokemon_id": 81,
+        "description": "Description_81",
+        "pokeGame": "Game_81"
+    },
+    {
+        "pokemon_id": 82,
+        "description": "Description_82",
+        "pokeGame": "Game_82"
+    },
+    {
+        "pokemon_id": 83,
+        "description": "Description_83",
+        "pokeGame": "Game_83"
+    },
+    {
+        "pokemon_id": 84,
+        "description": "Description_84",
+        "pokeGame": "Game_84"
+    },
+    {
+        "pokemon_id": 85,
+        "description": "Description_85",
+        "pokeGame": "Game_85"
+    },
+    {
+        "pokemon_id": 86,
+        "description": "Description_86",
+        "pokeGame": "Game_86"
+    },
+    {
+        "pokemon_id": 87,
+        "description": "Description_87",
+        "pokeGame": "Game_87"
+    },
+    {
+        "pokemon_id": 88,
+        "description": "Description_88",
+        "pokeGame": "Game_88"
+    },
+    {
+        "pokemon_id": 89,
+        "description": "Description_89",
+        "pokeGame": "Game_89"
+    },
+    {
+        "pokemon_id": 90,
+        "description": "Description_90",
+        "pokeGame": "Game_90"
+    },
+    {
+        "pokemon_id": 91,
+        "description": "Description_91",
+        "pokeGame": "Game_91"
+    },
+    {
+        "pokemon_id": 92,
+        "description": "Description_92",
+        "pokeGame": "Game_92"
+    },
+    {
+        "pokemon_id": 93,
+        "description": "Description_93",
+        "pokeGame": "Game_93"
+    },
+    {
+        "pokemon_id": 94,
+        "description": "Description_94",
+        "pokeGame": "Game_94"
+    },
+    {
+        "pokemon_id": 95,
+        "description": "Description_95",
+        "pokeGame": "Game_95"
+    },
+    {
+        "pokemon_id": 96,
+        "description": "Description_96",
+        "pokeGame": "Game_96"
+    },
+    {
+        "pokemon_id": 97,
+        "description": "Description_97",
+        "pokeGame": "Game_97"
+    },
+    {
+        "pokemon_id": 98,
+        "description": "Description_98",
+        "pokeGame": "Game_98"
+    },
+    {
+        "pokemon_id": 99,
+        "description": "Description_99",
+        "pokeGame": "Game_99"
+    },
+    {
+        "pokemon_id": 100,
+        "description": "Description_100",
+        "pokeGame": "Game_100"
+    },
+    {
+        "pokemon_id": 101,
+        "description": "Description_101",
+        "pokeGame": "Game_101"
+    },
+    {
+        "pokemon_id": 102,
+        "description": "Description_102",
+        "pokeGame": "Game_102"
+    },
+    {
+        "pokemon_id": 103,
+        "description": "Description_103",
+        "pokeGame": "Game_103"
+    },
+    {
+        "pokemon_id": 104,
+        "description": "Description_104",
+        "pokeGame": "Game_104"
+    },
+    {
+        "pokemon_id": 105,
+        "description": "Description_105",
+        "pokeGame": "Game_105"
+    },
+    {
+        "pokemon_id": 106,
+        "description": "Description_106",
+        "pokeGame": "Game_106"
+    },
+    {
+        "pokemon_id": 107,
+        "description": "Description_107",
+        "pokeGame": "Game_107"
+    },
+    {
+        "pokemon_id": 108,
+        "description": "Description_108",
+        "pokeGame": "Game_108"
+    },
+    {
+        "pokemon_id": 109,
+        "description": "Description_109",
+        "pokeGame": "Game_109"
+    },
+    {
+        "pokemon_id": 110,
+        "description": "Description_110",
+        "pokeGame": "Game_110"
+    },
+    {
+        "pokemon_id": 111,
+        "description": "Description_111",
+        "pokeGame": "Game_111"
+    },
+    {
+        "pokemon_id": 112,
+        "description": "Description_112",
+        "pokeGame": "Game_112"
+    },
+    {
+        "pokemon_id": 113,
+        "description": "Description_113",
+        "pokeGame": "Game_113"
+    },
+    {
+        "pokemon_id": 114,
+        "description": "Description_114",
+        "pokeGame": "Game_114"
+    },
+    {
+        "pokemon_id": 115,
+        "description": "Description_115",
+        "pokeGame": "Game_115"
+    },
+    {
+        "pokemon_id": 116,
+        "description": "Description_116",
+        "pokeGame": "Game_116"
+    },
+    {
+        "pokemon_id": 117,
+        "description": "Description_117",
+        "pokeGame": "Game_117"
+    },
+    {
+        "pokemon_id": 118,
+        "description": "Description_118",
+        "pokeGame": "Game_118"
+    },
+    {
+        "pokemon_id": 119,
+        "description": "Description_119",
+        "pokeGame": "Game_119"
+    },
+    {
+        "pokemon_id": 120,
+        "description": "Description_120",
+        "pokeGame": "Game_120"
+    },
+    {
+        "pokemon_id": 121,
+        "description": "Description_121",
+        "pokeGame": "Game_121"
+    },
+    {
+        "pokemon_id": 122,
+        "description": "Description_122",
+        "pokeGame": "Game_122"
+    },
+    {
+        "pokemon_id": 123,
+        "description": "Description_123",
+        "pokeGame": "Game_123"
+    },
+    {
+        "pokemon_id": 124,
+        "description": "Description_124",
+        "pokeGame": "Game_124"
+    },
+    {
+        "pokemon_id": 125,
+        "description": "Description_125",
+        "pokeGame": "Game_125"
+    },
+    {
+        "pokemon_id": 126,
+        "description": "Description_126",
+        "pokeGame": "Game_126"
+    },
+    {
+        "pokemon_id": 127,
+        "description": "Description_127",
+        "pokeGame": "Game_127"
+    },
+    {
+        "pokemon_id": 128,
+        "description": "Description_128",
+        "pokeGame": "Game_128"
+    },
+    {
+        "pokemon_id": 129,
+        "description": "Description_129",
+        "pokeGame": "Game_129"
+    },
+    {
+        "pokemon_id": 130,
+        "description": "Description_130",
+        "pokeGame": "Game_130"
+    },
+    {
+        "pokemon_id": 131,
+        "description": "Description_131",
+        "pokeGame": "Game_131"
+    },
+    {
+        "pokemon_id": 132,
+        "description": "Description_132",
+        "pokeGame": "Game_132"
+    },
+    {
+        "pokemon_id": 133,
+        "description": "Description_133",
+        "pokeGame": "Game_133"
+    },
+    {
+        "pokemon_id": 134,
+        "description": "Description_134",
+        "pokeGame": "Game_134"
+    },
+    {
+        "pokemon_id": 135,
+        "description": "Description_135",
+        "pokeGame": "Game_135"
+    },
+    {
+        "pokemon_id": 136,
+        "description": "Description_136",
+        "pokeGame": "Game_136"
+    },
+    {
+        "pokemon_id": 137,
+        "description": "Description_137",
+        "pokeGame": "Game_137"
+    },
+    {
+        "pokemon_id": 138,
+        "description": "Description_138",
+        "pokeGame": "Game_138"
+    },
+    {
+        "pokemon_id": 139,
+        "description": "Description_139",
+        "pokeGame": "Game_139"
+    },
+    {
+        "pokemon_id": 140,
+        "description": "Description_140",
+        "pokeGame": "Game_140"
+    },
+    {
+        "pokemon_id": 141,
+        "description": "Description_141",
+        "pokeGame": "Game_141"
+    },
+    {
+        "pokemon_id": 142,
+        "description": "Description_142",
+        "pokeGame": "Game_142"
+    },
+    {
+        "pokemon_id": 143,
+        "description": "Description_143",
+        "pokeGame": "Game_143"
+    },
+    {
+        "pokemon_id": 144,
+        "description": "Description_144",
+        "pokeGame": "Game_144"
+    },
+    {
+        "pokemon_id": 145,
+        "description": "Description_145",
+        "pokeGame": "Game_145"
+    },
+    {
+        "pokemon_id": 146,
+        "description": "Description_146",
+        "pokeGame": "Game_146"
+    },
+    {
+        "pokemon_id": 147,
+        "description": "Description_147",
+        "pokeGame": "Game_147"
+    },
+    {
+        "pokemon_id": 148,
+        "description": "Description_148",
+        "pokeGame": "Game_148"
+    },
+    {
+        "pokemon_id": 149,
+        "description": "Description_149",
+        "pokeGame": "Game_149"
+    },
+    {
+        "pokemon_id": 150,
+        "description": "Description_150",
+        "pokeGame": "Game_150"
+    }
+]
