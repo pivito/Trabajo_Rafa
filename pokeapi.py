@@ -25,6 +25,6 @@ def fetch_pokemon_data(pokemon_name):
         return f"An error occurred: {e}"
 
 # Example usage
-pokemon_name = input("Enter a Pokémon name: ")
-result = fetch_pokemon_data(pokemon_name)
-print(result)
+#pokemon_name = input("Enter a Pokémon name: ")
+#result = fetch_pokemon_data(pokemon_name)
+#print(result)
