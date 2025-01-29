@@ -306,7 +306,7 @@ while True:
                     "project_id": 1,
                     "project_name": "$name",
                     "person_id": "$personas_info.person_id",
-                    "pokemon_id": "$pokemon_info.pokemon_id"
+                    "pokemon_name": "$pokemon_info.pokemon_id"  # Asegurar que obtenemos el nombre del Pokémon
                 }
             }
         ]
@@ -320,14 +320,15 @@ while True:
         for registro in resultados_mongo:
             project_id = registro["project_id"]
             project_name = registro["project_name"]
-            pokemon_id = registro["pokemon_id"]
+            pokemon_name = registro["pokemon_name"]  # Usar el nombre del Pokémon desde MongoDB
 
             # Consultar la API para obtener los tipos del Pokémon
-            pokemon_data = fetch_pokemon_data(pokemon_id)
+            pokemon_data = fetch_pokemon_data(pokemon_name)
+
             if isinstance(pokemon_data, dict) and "Types" in pokemon_data:
                 tipos = set(pokemon_data["Types"])  # Convertir los tipos en un conjunto
             else:
-                print(f"Error al obtener datos del Pokémon: {pokemon_id}")
+                print(f"Error al obtener datos del Pokémon: {pokemon_name}")
                 continue
 
             # Agrupar los datos por proyecto
